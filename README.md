@@ -1,1 +1,3 @@
 # HopTwit
+
+## Architecture Diagram
