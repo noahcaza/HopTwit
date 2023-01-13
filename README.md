@@ -25,3 +25,9 @@ Our application will have 3 main classes:
 
 To increase security, passwords will only be stored after salt and peppering. 
 
+## Authors
+
+- Emily Chang
+- Noah Cazabon
+- Amy Ling
+
