@@ -7,6 +7,8 @@
 
 We chose React Native as it allows for the development of cross-platform mobile apps. This means that the same codebase can be used to build apps for both iOS and Android, which will save us time and effort. Express.js is a popular and powerful framework. It makes it easy to set up a backend server and handle HTTP requests and responses. Given that it's a popular framework it will allow for our app to be easily scalable, as well as it's easy to find developers with experience in Express. PostgreSQL is also widely used and is a robust relational database management system that can handle complex data structures and relationships. This will allow for even more scalability once our app becomes more complex. 
 
+Both ReactNative and Express.js are javascript frameworks. 
+
 ## Architecture Diagram
 <img width="654" alt="image" src="https://user-images.githubusercontent.com/59515786/212223420-7fb04e26-7899-415b-aad9-0b55b628d727.png">
 
