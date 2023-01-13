@@ -1,5 +1,8 @@
 # HopTwit
 
+## Accessibility
+Our system provides both digital experience and a more traditional calling system. The digital experience is described below. In terms of the calling system, users can call our automated line which will then book the ride using the same server as described below. The passenger will then pay the driver with cash, and the fare will be deducted from the driver's payroll. 
+
 ## Built With
 - React Native
 - Express.js
