@@ -5,6 +5,8 @@
 <img width="654" alt="image" src="https://user-images.githubusercontent.com/59515786/212223420-7fb04e26-7899-415b-aad9-0b55b628d727.png">
 We will use ReactNative to create the application. This will allow us to launch on iOS and Android to maximize the amount of users that can access the app.
 
+The server will handle interacting with the Google APIs and also the logic revolving around assigning a driver.
+
 ## UML Diagram
 <img width="749" alt="image" src="https://user-images.githubusercontent.com/59515786/212225103-2344ccb1-fdb1-499f-9497-63d837d7ff76.png">
 
