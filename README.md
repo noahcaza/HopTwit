@@ -5,7 +5,7 @@ We will use ReactNative to create the application. This will allow us to launch 
 ## Architecture Diagram
 
 ## UML Diagram
-<img width="469" alt="image" src="https://user-images.githubusercontent.com/59515786/212208993-8887a2d7-fd22-4b16-b12d-fbc64cc4263c.png">
+<img width="703" alt="image" src="https://user-images.githubusercontent.com/59515786/212209226-d3b28718-4a55-4394-aa66-57d2b17edfd2.png">
 
 Our application will have 3 main classes:
 1. Passenger
