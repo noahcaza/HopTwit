@@ -22,8 +22,6 @@ The React Native app handles the user interface and user experience of the app, 
 
 Firebase Authentication is used to handle user authentication and Firebase Cloud Messaging is used to send push notifications to users. Google Maps API and React Native Geolocation are used to handle maps and geolocation, and Stripe is used to handle payments.
 
-The User interface is the main point of interaction for the user, it would display the upcoming ride details, allow to create a ride, and allow to make the payment. The user also would need to log in to the app, and this information would be handled by Firebase Authentication. The user's location would be handled by React Native Geolocation and the map by Google Maps API.
-
 ## UML Diagram
 <img width="692" alt="image" src="https://user-images.githubusercontent.com/59515786/212243997-b7eb5c89-73d5-47b2-85f0-4b0a68a3577c.png">
 
