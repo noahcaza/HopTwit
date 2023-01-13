@@ -3,6 +3,7 @@
 We will use ReactNative to create the application. This will allow us to launch on ios and Android to maximize the amount of users that can access the app.
 
 ## Architecture Diagram
+<img width="654" alt="image" src="https://user-images.githubusercontent.com/59515786/212223420-7fb04e26-7899-415b-aad9-0b55b628d727.png">
 
 ## UML Diagram
 <img width="683" alt="image" src="https://user-images.githubusercontent.com/59515786/212210016-24df1da4-edb9-4432-a624-f4362427eadc.png">
